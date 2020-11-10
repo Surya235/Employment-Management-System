@@ -8,13 +8,12 @@ The Employee Management System is used to view, add, update or delete the employ
 * Browser
 ---
 ## Installation
-1 Install XAMPP and move the folder to C:\xampp\htdocs\emp.
-2 Import the database(emp.sql) into phpMyAdmin.
-3 Open the XAMPP Control Panel and start the Apache and MySQL Module.
-4 Open the browser and search "http://localhost/emp" in address bar to see all the post in the blog site.
+1. Install XAMPP and move the folder to C:\xampp\htdocs\emp.
+2. Import the database(emp.sql) into phpMyAdmin.
+3. Open the XAMPP Control Panel and start the Apache and MySQL Module.
+4. Open the browser and search "http://localhost/emp" in address bar to see all the post in the blog site.
 ---
 ## Features
----
 * Adding Employees
 	* Click the (Home --> Add Employees).
 	* It moves to the Add Employee page.
@@ -41,7 +40,6 @@ The Employee Management System is used to view, add, update or delete the employ
 	* It retrieve the data if exist otherwise it shows "No Result".
 ---
 ## Explore the App
----
 **Thanks for Visiting**
 ---
 ![Slide1](https://user-images.githubusercontent.com/73686015/98685818-d96b9780-238d-11eb-8a03-532cf047c5ec.JPG)
