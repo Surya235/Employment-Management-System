@@ -60,7 +60,7 @@ The Employee Management System is used to view, add, update or delete the employ
 ---
 ![Slide5](https://user-images.githubusercontent.com/73686015/98685996-0cae2680-238e-11eb-871c-97c3f1c5d3ba.JPG)
 
-**After Adding **
+**After Adding**
 ---
 ![Slide6](https://user-images.githubusercontent.com/73686015/98686001-1041ad80-238e-11eb-8cdf-a7921e7750cc.JPG)
 
