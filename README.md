@@ -1,6 +1,35 @@
 # Employment-Management-System
 The Employee Management System is used to view, add, update or delete the employee records. 
-### Explore the App
+
+
+## Features
+---
+*Adding Employees
+	*Click the (Home --> Add Employees).
+	*It moves to the Add Employee page.
+	*Enter the details of the employee and click submit.
+	
+*Updating Employees
+	*Click the (Home --> View all Employees --> Edit).
+	*It moves to the update page.
+	*It retrieves the value of the required employee details to the textbox.
+	*Update the details of the employee and click update.
+
+*Deleting Employees
+	*Click the (Home --> View all Employees).
+	*Delete options are performed here.
+	*It delete the employee details and immediately moves to view all employees.
+	
+*Viewing all Employees
+	*Click the (Home --> View all Employees).
+	*Edit/Delete options are performed here.
+
+*Searching Employees
+	*Click the (Home --> Search Employees).
+	*Enter the required employee name in the textbox.
+	*It retrieve the data if exist otherwise it shows "No Result".
+---
+## Explore the App
 ---
 **Thanks for Visiting**
 ---
